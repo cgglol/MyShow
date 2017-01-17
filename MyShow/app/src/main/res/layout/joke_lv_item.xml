@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:gif="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_joke_lv_item"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/tv_joke_lv_item_body"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/blue"/>
+
+    <ImageView
+        android:id="@+id/iv_joke_lv_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:maxWidth="400dp"
+        android:maxHeight="800dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"/>
+
+    <ImageView
+        android:id="@+id/iv_gif_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:scaleType="centerCrop"/>
+
+  <!--  <com.cgg.administrator.myshow.utils.MyGifView
+        android:id="@+id/gif_joke_lv_item"
+        gif:gif="@raw/tudout"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:scaleType="centerCrop"/>-->
+
+</LinearLayout>

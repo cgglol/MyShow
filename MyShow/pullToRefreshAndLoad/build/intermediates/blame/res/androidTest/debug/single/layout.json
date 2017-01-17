@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_more.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item_layout.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_gridview.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_gridview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\list_item_layout.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_textview.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_textview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_scrollview.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_scrollview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_more.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_imageview.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_imageview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_textview.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_textview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_scrollview.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_scrollview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_listview.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\refresh_head.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_imageview.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_imageview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_listview.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_gridview.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_gridview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\refresh_head.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_expandablelistview.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_expandablelistview.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_expandablelistview.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_expandablelistview.xml"
+    }
+]

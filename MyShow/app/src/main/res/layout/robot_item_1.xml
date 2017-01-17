@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.cgg.administrator.myshow.view.RoundImageView
+        android:id="@+id/item_1_riv"
+        android:layout_height="50dp"
+        android:layout_width="50dp"
+        android:src="@mipmap/cat"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="17dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="16dp"
+        android:id="@+id/tv_rb1"
+        android:textSize="18sp"
+        android:layout_alignTop="@+id/item_1_riv"
+        android:layout_toStartOf="@+id/item_1_riv" />
+</RelativeLayout>

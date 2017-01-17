@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\rotating.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\reverse_anim.xml",
+        "source": "E:\\CGGTools\\studioworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\reverse_anim.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\rotating.xml",
+        "source": "E:\\CGGTools\\gitworkspace\\MyShow\\pullToRefreshAndLoad\\build\\intermediates\\bundles\\debug\\res\\anim\\rotating.xml"
+    }
+]

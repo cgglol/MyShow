@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#C1C5FB"
+        >
+        <TextView
+            android:id="@+id/tv_title_petal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="花瓣福利"
+            android:textSize="26sp"
+            android:textColor="#0D04B9"
+            android:layout_centerInParent="true"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_pbf_back"
+            android:src="@mipmap/return_white"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+
+    <com.astuetz.PagerSlidingTabStrip
+        android:id="@+id/pbf_tbs"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        app:pstsShouldExpand="true"
+        app:pstsUnderlineHeight="2dp"
+        app:pstsIndicatorHeight="2dp"
+        app:pstsIndicatorColor="@android:color/holo_blue_light"
+        app:pstsDividerColor="@android:color/transparent"
+        app:pstsTabBackground="@drawable/background_tab"
+        android:background="@android:color/white"/>
+
+    <android.support.v4.view.ViewPager
+                android:id="@+id/vp_pbf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/mpa_tbs"/>
+
+
+</LinearLayout>
+
+
